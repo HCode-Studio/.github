@@ -1,6 +1,6 @@
-# Bienvenue sur le GitHub de HCodeStudio
+<p align="center"><a href="https://hcodestudio.fr" target="_blank"><img src="https://github.com/user-attachments/assets/f9bf8beb-9693-493e-b537-5ad6964fd360" width="400" alt="HCodeStudio Logo"></a></p>
 
-![HCodeStudio logo](https://github.com/user-attachments/assets/f9bf8beb-9693-493e-b537-5ad6964fd360)
+# Bienvenue sur le GitHub de HCodeStudio
 
 ## Qui sommes-nous ?
 
