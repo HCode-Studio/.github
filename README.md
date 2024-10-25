@@ -4,7 +4,7 @@
 
 ## Qui sommes-nous ?
 
-HCodeStudio est une entreprise spécialisée dans le développement de solutions numériques innovantes et sur mesure. Nous nous concentrons principalement sur les technologies Laravel et Angular pour offrir des produits performants et scalables à nos clients.
+HCodeStudio est une entreprise spécialisée dans le développement de solutions numériques innovantes et sur mesure.
 
 ## Nos Services
 
