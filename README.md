@@ -1,6 +1,6 @@
 # Bienvenue sur le GitHub de HCodeStudio
 
-![HCodeStudio Logo](https://yourimageurl.com/logo.png)
+![HCodeStudio logo](https://github.com/user-attachments/assets/f9bf8beb-9693-493e-b537-5ad6964fd360)
 
 ## Qui sommes-nous ?
 
@@ -23,13 +23,6 @@ HCodeStudio est une entreprise spécialisée dans le développement de solutions
 ## Notre Expertise
 
 HCodeStudio rassemble une équipe de développeurs expérimentés et passionnés, dirigée par Hamza, un développeur fullstack avec 4 ans d'expérience. Nous avons travaillé sur divers projets allant de la création de sites web interactifs à la mise en place de systèmes backend complexes.
-
-## Projets Open Source
-
-Nous croyons fermement en la communauté open-source. Voici quelques-uns de nos projets publics :
-
-- [Projet 1](https://github.com/HCodeStudio/Project1) - Description du projet 1.
-- [Projet 2](https://github.com/HCodeStudio/Project2) - Description du projet 2.
 
 ## Comment Nous Contacter ?
 
