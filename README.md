@@ -26,9 +26,8 @@ HCodeStudio rassemble une équipe de développeurs expérimentés et passionnés
 
 ## Comment Nous Contacter ?
 
-- **Site Web :** [hcodestudio.com](https://www.hcodestudio.com)
-- **Email :** contact@hcodestudio.com
-- **Twitter :** [@HCodeStudio](https://twitter.com/HCodeStudio)
+- **Site Web :** [hcodestudio.com](https://www.hcodestudio.fr)
+- **Email :** hamza@hcodestudio.fr
 - **LinkedIn :** [HCodeStudio sur LinkedIn](https://www.linkedin.com/company/hcodestudio)
 
 Rejoignez-nous dans notre mission de créer des solutions innovantes et performantes. Contribuez à nos projets, posez des questions ou collaborez avec nous. Nous sommes toujours ouverts à de nouvelles collaborations et opportunités !
